@@ -1,4 +1,5 @@
 public class ConsoleBasedFizzBuzz implements FizzBuzz {
+    
     final static int FIZZ_NUMBER = 3;
     final static int BUZZ_NUMBER = 5;
 
